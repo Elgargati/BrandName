@@ -22,7 +22,7 @@ Le projet est basé sur **Tailwind CSS** pour une conception rapide et flexible,
 
 ---
 
-## ![App Preview](./public/BrandName-screen-pc.png)(./public/BrandName-mobile.png)
+## ![App Preview](./public/BrandName-screen-pc.png)
 ## ![App Preview](./public/BrandName-mobile.png)
 
 ---
